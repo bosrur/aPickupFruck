@@ -1,0 +1,14 @@
+<VehicleParts> Fruck_PickUp85_Green
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	PickupA85_koleso
+	PickupA85_koleso
+	PickupA85_koleso
+	PickupA85_koleso
+	PickupA85_Door_1_1
+	PickupA85_Door_1_2
+	PickupA85_hood
+	PickupA85_trunk

@@ -1,0 +1,18 @@
+	<event name="VehicleFruck_PickUp85_Green">
+		<waves>0</waves>
+		<nominal>30</nominal>
+		<min>6</min>
+		<max>12</max>
+		<lifetime>64800</lifetime>
+		<restock>0</restock>
+		<saferadius>1000</saferadius>
+		<distanceradius>500</distanceradius>
+		<cleanupradius>200</cleanupradius>
+		<flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+		<position>fixed</position>
+		<limit>mixed</limit>
+		<active>1</active>
+		<children>
+			<child lootmax="0" lootmin="0" max="12" min="6" type="Fruck_PickUp85_Green"/>
+		</children>
+	</event>
